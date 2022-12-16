@@ -1,0 +1,12 @@
+.box {
+    border: 1px black solid;
+    margin-bottom: 1rem;
+    padding: 3rem;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 500px;
+}
+
+.btn-box {
+    display: flex;
+}
